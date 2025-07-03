@@ -1,4 +1,9 @@
 //Welcome to my code
+/*
+Well Done Bandhan! I'm Tonoy and would love to offer an improved version of the same programme. Have a glance 
+Date : [03.07.2025]
+Location : 1475A Malvern Rd, Glen Iris.
+*/
 #include<stdio.h>
 int main() {
 
@@ -6,7 +11,7 @@ int main() {
 
    printf("Select the data package:\n 1.Basic Package\n 2.Standard Package\n 3.Premium Package \n Enter your choice:");
    scanf("%d",&n);
-
+   
    if(n==1){
     printf("Enter the number of GBs you want to use:");
     scanf("%d",&gb);
